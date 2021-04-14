@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bandarimidt2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BandarimidT2">
+        <activity
+            android:name=".MainActivity3"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar"></activity>
+        <activity
+            android:name=".Accomodation"
+            android:label="@string/title_activity_accomodation"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity
+            android:name=".FinalActivity2"
+            android:label="@string/title_activity_final2"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity
+            android:name=".FinalActivity"
+            android:label="@string/title_activity_final"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity
+            android:name=".Introactivity2"
+            android:label="@string/title_activity_introactivity2"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity
+            android:name=".Splashscreen"
+            android:label="@string/title_activity_splashscreen"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity
+            android:name=".DBAccess2"
+            android:label="@string/title_activity_d_b_access2"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity
+            android:name=".DBAccess"
+            android:label="@string/title_activity_d_b_access"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity
+            android:name=".DBHelper"
+            android:label="@string/title_activity_d_b_helper"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity
+            android:name=".intro"
+            android:label="@string/title_activity_intro"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity
+            android:name=".MainActivity2"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.BandarimidT2.NoActionBar" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

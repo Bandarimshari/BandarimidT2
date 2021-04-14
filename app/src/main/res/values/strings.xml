@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BandarimidT2</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_intro">intro</string>
+    <string name="title_activity_d_b_helper">DBHelper</string>
+    <string name="title_activity_d_b_access">DBAccess</string>
+    <string name="title_activity_d_b_access2">DBAccess2</string>
+    <string name="title_activity_splashscreen">Splashscreen</string>
+    <string name="title_activity_introactivity2">Introactivity2</string>
+    <string name="title_activity_final">FinalActivity</string>
+    <string name="title_activity_final2">FinalActivity2</string>
+    <string name="title_activity_accomodation">Accomodation</string>
+    <string name="title_activity_main3">MainActivity</string>
+</resources>
